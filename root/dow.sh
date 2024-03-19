@@ -1,1 +1,1 @@
-sudo apt update && sudo apt upgrade -y && sudo apt install screen wget unzip nano curl git tar -y
+apt update && apt upgrade -y && apt install screen wget unzip nano curl git tar -y
